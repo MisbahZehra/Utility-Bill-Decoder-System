@@ -1,0 +1,11 @@
+bill_id,json
+IESCO_0002,
+KESC_0002,
+...
+LESCO_0008,
+level2.csv
+bill_id,question_id,question,answer
+IESCO_0002,Q1,<question 1>,
+IESCO_0002,Q2,<question 2>,
+...
+LESCO_0008,Q12,<question 12>,
